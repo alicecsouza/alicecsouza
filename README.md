@@ -3,6 +3,7 @@
 Meu nome é Alice Carvalho! 
 
  Sou formada em Design de Interiores, mas em transição de carreira para area da tecnologia. 🖥️ 
+ 
  Sou de São Paulo, estou cada dia me desenvolvendo mais e me dedicando para conquistar o meu espaço como Programadora. 
  
 ### A melhor maneira de prever o futuro é inventá-lo. ✨
