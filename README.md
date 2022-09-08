@@ -10,7 +10,7 @@ Meu nome é Alice Carvalho!
 
 
 - 📍 São Paulo
-- 💻 JavaScript | HTML 5 | CSS
+- 💻 JavaScript | HTML 5 | CSS | Python
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicecarvalhosouza/)](https://www.linkedin.com/in/alicecarvalhosouza/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lisouzac/)](https://www.instagram.com/lisouzac/)
